@@ -1,0 +1,6 @@
+{
+  "name": "DocuLens",
+  "description": "Professional document scanner with live edge detection, perspective warp, magic filters, OCR text extraction, PDF merging, signing, watermarking, and document organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
